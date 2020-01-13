@@ -7,3 +7,5 @@ Linda Sui<br>
 Zhuo (Rocky) Cheng<br>
 Jack Stefen<br>
 Yuqing (Zoe) Wang<br>
+
+<a href="https://wfu-tree-map.herokuapp.com/"> LINK TO THE APP </a>
